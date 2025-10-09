@@ -53,5 +53,15 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Goldi",
+        "founded": 2000,
+        "headquarters": "Ukraine",
+        "employees": 5000,
+        "products": [
+            "T-shirts",
+            "Outerwear"
+        ]
     }
 ]

@@ -1,0 +1,16 @@
+[
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"]
+},
+{
+    "brand1": "Intel",
+    "year1": 2018,
+    "isTouchscreen1": false,
+    "devices1": ["touchpad","webcam","keyboard"]
+
+}
+]
