@@ -55,13 +55,25 @@
         ]
     },
     {
-        "name": "Goldi",
-        "founded": 2000,
-        "headquarters": "Ukraine",
-        "employees": 5000,
+        "name": "Patagonia",
+        "founded": 1973,
+        "headquarters": "Ventura, California, USA",
+        "employees": 2500,
         "products": [
-            "T-shirts",
-            "Outerwear"
+            "Outdoor Clothing",
+            "Sportswear",
+            "Gear & Equipment"
+        ]
+    },
+    {
+        "name": "Levi Strauss & Co.",
+        "founded": 1853,
+        "headquarters": "San Francisco, California, USA",
+        "employees": 16800,
+        "products": [
+            "Jeans",
+            "Casual Wear",
+            "Accessories"
         ]
     }
 ]

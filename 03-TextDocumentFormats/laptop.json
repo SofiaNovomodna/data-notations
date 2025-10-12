@@ -4,13 +4,9 @@
     "model": "Inspiron 15",
     "year": 2023,
     "isTouchscreen": false,
-    "devices": ["touchpad","webcam"]
-},
-{
-    "brand1": "Intel",
-    "year1": 2018,
-    "isTouchscreen1": false,
-    "devices1": ["touchpad","webcam","keyboard"]
-
+    "devices": ["touchpad","webcam"],
+    "Processor": "Intel® Pentium® Gold 8505 (8 MB cache, 5 core, 6 threads, up to 1.2 GHz, 15 W)",
+    "Operating System": "Windows 11 Pro National Academic, 64-bit",
+    "Camera": "Plastic: 720p at 30 fps HD camera Single integrated microphone"
 }
 ]

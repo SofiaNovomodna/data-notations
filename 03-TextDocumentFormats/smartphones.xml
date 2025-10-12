@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Redmi" model="Redmi 8" releaseYear="2019">
+        <specs>
+            <screenSize unit="inch">6.22</screenSize>
+            <batteryCapacity unit="mAh">5000</batteryCapacity>
+            <storage unit="GB">64</storage>
+            <camera unit="MP">12</camera>
+        </specs>
+        <price currency="USD">99</price>
+    </smartphone>
 </smartphones>

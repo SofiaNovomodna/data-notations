@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport>
+        <name>trolleybus</name>
+        <price unit="zl">2</price>
+        <convenience unit="points from 10">8</convenience>
+        <speed unit="km/h">20</speed>
+    </transport>
+    <transport>
+        <name>bike</name>
+        <price unit="zl">0</price>
+        <convenience unit="points from 10">5</convenience>
+        <speed unit="km/h">15</speed>
+    </transport>
+    <transport>
+        <name>legs</name>
+        <price unit="zl">0</price>
+        <convenience unit="points from 10">3</convenience>
+        <speed unit="km/h">5</speed>
+    </transport>
+</transports>
